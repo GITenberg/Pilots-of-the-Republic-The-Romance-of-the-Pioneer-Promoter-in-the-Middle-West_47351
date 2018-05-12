@@ -1,4 +1,5 @@
 _repo: Pilots-of-the-Republic-The-Romance-of-the-Pioneer-Promoter-in-the-Middle-West_47351
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Enright, Walter J. (Walter Joseph)
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1969
     gutenberg_agent_id: '24939'
     url: http://www.gutenberg.org/2009/agents/24939
+covers:
+- cover_type: archival
+  image_path: 47351-h/images/cover.jpg
 creator:
   author:
     agent_name: Hulbert, Archer Butler
@@ -14,6 +18,8 @@ creator:
     gutenberg_agent_id: '1112'
     url: http://www.gutenberg.org/2009/agents/1112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47351#Pilots-of-the-Republic-The-Romance-of-the-Pioneer-Promoter-in-the-Middle-West
 gutenberg_issued: '2014-11-14'
 gutenberg_type: Text
 identifiers:
