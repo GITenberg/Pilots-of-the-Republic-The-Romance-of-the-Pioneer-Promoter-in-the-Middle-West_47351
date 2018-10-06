@@ -28,6 +28,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Pilots of the Republic: The Romance of the Pioneer Promoter in the Middle
   West'
 url: http://www.gutenberg.org/ebooks/47351
